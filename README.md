@@ -206,4 +206,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Footer:** Kanizsa Monitoring Service v2.1.0 | Last Updated: August 9, 2025, 11:58:02 CDT
+**Footer:** Kanizsa Monitoring Service v2.2.0 | Last Updated: August 09, 2025, 12:03:00 CDT
